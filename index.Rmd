@@ -3,3 +3,14 @@ title: "TalkeR Index"
 ---
 
 This is TalkeR.
+
+
+```{r, eval = T}
+#here is some code
+x <- 1
+y <- 2
+z <- x + y
+print(z)
+
+```
+
