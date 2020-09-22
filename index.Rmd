@@ -5,12 +5,10 @@ title: "TalkeR Index"
 This is TalkeR.
 
 
-```{r, eval = T}
-#here is some code
-x <- 1
-y <- 2
-z <- x + y
-print(z)
+```{r, eval = F}
+#here is how to use TalkeR
+
+TalkeR::TalkToMe()
 
 ```
-
+To correct TalkeR, type 'wrong' and then at the next prompt type the correct response.  To turn TalkeR off type 'bye'.  TalkeR remembers old conversations when you restart them.
