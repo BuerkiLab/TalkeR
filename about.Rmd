@@ -1,0 +1,5 @@
+---
+title: "About TalkeR"
+---
+
+TalkeR is an R-program that talks to you by learning what is a good and bad reply.

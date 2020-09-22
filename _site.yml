@@ -1,0 +1,9 @@
+name: "TalkeR"
+output_dir: "."
+navbar:
+  title: "TalkeR"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
